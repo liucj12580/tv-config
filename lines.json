@@ -13,10 +13,6 @@
             "name": "🚀PG线路"
         },
         {
-            "url": "http://www.饭太硬.net/tv",
-            "name": "🚀饭太硬线路"
-        },
-        {
             "url": "https://www.252035.xyz/z/FongMi.json",
             "name": "🚀真心线路"
         },
@@ -45,10 +41,6 @@
             "name": "🚀虎斑线路"
         },
         {
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json",
-            "name": "🚀小米线路"
-        },
-        {
             "url": "https://9763.kstore.space/aowu.json",
             "name": "🚀嗷呜线路"
         },
@@ -59,6 +51,38 @@
         {
             "url": "https://android.lushunming.qzz.io/json/index.json",
             "name": "🚀L佬线路"
+        },
+        {
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
+            "name": "🚀OK影视线路"
+        },
+        {
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/api.json",
+            "name": "🚀小虾线路"
+        },
+        {
+            "url": "http://home.jundie.top:81/top98.json",
+            "name": "🚀俊于线路"
+        },
+        {
+            "url": "https://ztha.top/TVBox/thdjk.json",
+            "name": "🚀ZT线路"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/hebijunge/tvbox-config@main/tvbox_recommended.json",
+            "name": "🚀每日聚合线路"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/ouyushan/tvbox-cfg@main/config/multi.json",
+            "name": "🚀探活聚合仓"
+        },
+        {
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/songlees355-wq/okay/main/福利接口.json",
+            "name": "🚀福利线路"
+        },
+        {
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/songlees355-wq/okay/main/laosj.json",
+            "name": "🚀逍遥线路"
         }
     ]
 }
