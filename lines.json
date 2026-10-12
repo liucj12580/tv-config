@@ -67,6 +67,10 @@
         {
             "url": "https://ztha.top/TVBox/thdjk.json",
             "name": "🚀ZT线路"
+        },
+        {
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/liucj12580/tv-config/main/extra.json",
+            "name": "🚀聚合线路"
         }
     ]
 }
