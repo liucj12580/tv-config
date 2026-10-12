@@ -67,18 +67,6 @@
         {
             "url": "https://ztha.top/TVBox/thdjk.json",
             "name": "🚀ZT线路"
-        },
-        {
-            "url": "https://cdn.jsdelivr.net/gh/hebijunge/tvbox-config@main/tvbox_recommended.json",
-            "name": "🚀每日聚合线路"
-        },
-        {
-            "url": "https://cdn.jsdelivr.net/gh/ouyushan/tvbox-cfg@main/config/multi.json",
-            "name": "🚀探活聚合仓"
-        },
-        {
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/songlees355-wq/okay/main/laosj.json",
-            "name": "🚀逍遥线路"
         }
     ]
 }
