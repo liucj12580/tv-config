@@ -71,18 +71,6 @@
         {
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/liucj12580/tv-config/main/live_guovin.json",
             "name": "📺聚合直播1600"
-        },
-        {
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/liucj12580/tv-config/main/live_suxuang.json",
-            "name": "📺每日直播1200"
-        },
-        {
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/liucj12580/tv-config/main/live_vbsky.json",
-            "name": "📺精选直播500"
-        },
-        {
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/liucj12580/tv-config/main/live_yang.json",
-            "name": "📺综合精选直播"
         }
     ]
 }
