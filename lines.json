@@ -1,104 +1,28 @@
 {
     "urls": [
-        {
-            "url": "https://cdn09022024.gitlink.org.cn/api/v1/repos/leevi0321/null/raw/config.bin",
-            "name": "🚀多多线路"
-        },
-        {
-            "url": "https://xduo.codered.cloud/api/config.bin",
-            "name": "🚀多多备用"
-        },
-        {
-            "url": "https://www.252035.xyz/p/jsm.json",
-            "name": "🚀PG线路"
-        },
-        {
-            "url": "https://www.252035.xyz/z/FongMi.json",
-            "name": "🚀真心线路"
-        },
-        {
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/main/api.json",
-            "name": "🚀东篱线路"
-        },
-        {
-            "url": "https://9280.kstore.vip/newwex.json",
-            "name": "🚀王二小线路"
-        },
-        {
-            "url": "https://17264.kstore.space/哈基米.png",
-            "name": "🚀哈基米线路"
-        },
-        {
-            "url": "http://www.y456y.com",
-            "name": "🚀摸鱼线路"
-        },
-        {
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-            "name": "🚀南风线路"
-        },
-        {
-            "url": "http://hb.小虎斑.site:25252/仅供测试",
-            "name": "🚀虎斑线路"
-        },
-        {
-            "url": "https://9763.kstore.space/aowu.json",
-            "name": "🚀嗷呜线路"
-        },
-        {
-            "url": "https://9877.kstore.space/sun.json",
-            "name": "🚀潇洒线路"
-        },
-        {
-            "url": "https://android.lushunming.qzz.io/json/index.json",
-            "name": "🚀L佬线路"
-        },
-        {
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
-            "name": "🚀OK影视线路"
-        },
-        {
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/api.json",
-            "name": "🚀小虾线路"
-        },
-        {
-            "url": "http://home.jundie.top:81/top98.json",
-            "name": "🚀俊于线路"
-        },
-        {
-            "url": "https://ztha.top/TVBox/thdjk.json",
-            "name": "🚀ZT线路"
-        },
-        {
-            "url": "https://0.12yue.de5.net/5/x4pro.json",
-            "name": "🚀12悦Pro"
-        },
-        {
-            "url": "https://0.12yue.de5.net/5/x4.json",
-            "name": "🚀12悦线路"
-        },
-        {
-            "url": "https://9280.kstore.vip/aiwex.json",
-            "name": "🚀王二小AI"
-        },
-        {
-            "url": "https://g.3344550.xyz/https://raw.githubusercontent.com/jigedos/1024/master/jsm.json",
-            "name": "🚀1024线路"
-        },
-        {
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/niubihu1/tvbox/main/1.json",
-            "name": "🚀牛鼻虎线路"
-        },
-        {
-            "url": "https://cdn.jsdelivr.net/gh/TVboxorg/TVbox@main/dist/official.json",
-            "name": "🚀TVboxORG"
-        },
-        {
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/liucj12580/tv-config/main/live_guovin.json",
-            "name": "📺聚合直播1600"
-        },
-        {
-            "url": "https://0.wudaozhe.net/tvbox/海量直播聚合接口.json",
-            "name": "📺无极直播193"
-        }
+        {"url": "https://cdn09022024.gitlink.org.cn/api/v1/repos/leevi0321/null/raw/config.bin", "name": "🚀多多线路"},
+        {"url": "https://xduo.codered.cloud/api/config.bin", "name": "🚀多多备用"},
+        {"url": "https://www.252035.xyz/p/jsm.json", "name": "🚀PG线路"},
+        {"url": "https://www.252035.xyz/z/FongMi.json", "name": "🚀真心线路"},
+        {"url": "https://gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/main/api.json", "name": "🚀东篱线路"},
+        {"url": "https://9280.kstore.vip/newwex.json", "name": "🚀王二小线路"},
+        {"url": "https://17264.kstore.space/哈基米.png", "name": "🚀哈基米线路"},
+        {"url": "http://www.y456y.com", "name": "🚀摸鱼线路"},
+        {"url": "https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json", "name": "🚀南风线路"},
+        {"url": "http://hb.小虎斑.site:25252/仅供测试", "name": "🚀虎斑线路"},
+        {"url": "https://9763.kstore.space/aowu.json", "name": "🚀嗷呜线路"},
+        {"url": "https://9877.kstore.space/sun.json", "name": "🚀潇洒线路"},
+        {"url": "https://android.lushunming.qzz.io/json/index.json", "name": "🚀L佬线路"},
+        {"url": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/jsm.json", "name": "🚀OK影视线路"},
+        {"url": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/api.json", "name": "🚀小虾线路"},
+        {"url": "http://home.jundie.top:81/top98.json", "name": "🚀俊于线路"},
+        {"url": "https://ztha.top/TVBox/thdjk.json", "name": "🚀ZT线路"},
+        {"url": "https://0.12yue.de5.net/5/x4pro.json", "name": "🚀12悦Pro"},
+        {"url": "https://0.12yue.de5.net/5/x4.json", "name": "🚀12悦线路"},
+        {"url": "https://9280.kstore.vip/aiwex.json", "name": "🚀王二小AI"},
+        {"url": "https://g.3344550.xyz/https://raw.githubusercontent.com/jigedos/1024/master/jsm.json", "name": "🚀1024线路"},
+        {"url": "https://gh-proxy.org/https://raw.githubusercontent.com/niubihu1/tvbox/main/1.json", "name": "🚀牛鼻虎线路"},
+        {"url": "https://cdn.jsdelivr.net/gh/TVboxorg/TVbox@main/dist/official.json", "name": "🚀TVboxORG"},
+        {"url": "https://gh-proxy.org/https://raw.githubusercontent.com/liucj12580/tv-config/main/live_guovin.json", "name": "📺聚合直播1600"}
     ]
 }
